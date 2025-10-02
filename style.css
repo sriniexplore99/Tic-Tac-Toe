@@ -1,0 +1,45 @@
+h1 {
+    text-align:center;
+    color:lightblue;
+    font-size:45px;
+}
+#b1, #b2, #b3, #b4, #b5, #b6, #b7, #b8, #b9 {
+width:80px;
+height:50px;
+margin:auto;
+border:1px solid grey;
+border-radius:6px;
+font-size:30px;
+text-align:center;
+}
+
+#but {
+box-sizing:border-box;
+width:95px;
+height:40px;
+color:orangered;
+border:1px solid dodgerblue;
+margin:auto;
+border-radius:4px;
+background-color:lightblue;
+font-size:20px;
+cursor:pointer;
+font-family:Verdana, Arial, Sans-Serif;
+}
+
+#print {
+font-family:Verdana, Arial, Sans-Serif;
+color:cyan;
+font-size:20px;
+}
+
+#main {
+text-align:center;
+background-color:orange;
+}
+
+#ins {
+font-family:Verdana, Arial, Sans-Serif;
+color:cyan;
+font-size:20px;
+}
